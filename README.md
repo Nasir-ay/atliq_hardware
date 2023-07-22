@@ -18,3 +18,19 @@ Atliq Hardwares is a leading computer hardware producer in India and well establ
 
 ## Ad hoc Insights Presentation
 [![Ad hoc Insights Presentation](https://raw.githubusercontent.com/Nasir-ay/atliq_hardware/main/presentation_first_page.jpg "click here to view the presentation")](https://github.com/Nasir-ay/atliq_hardware/blob/main/presentationPDF.pdf)
+
+# Conclusion and Recommendation
+The following are the least performing product segments by the count of and increase in unique products over the two fiscal years 2020 and 2021:
+- Desktop
+- Storage
+- Networking
+
+I suggest the following recommendations to address the problems with the least performing product segments:
+- Invest further in Research and development to stay ahead of technological advancements and consumer trends
+- Expand product range within each segment to cater to a broader customer base
+- Facilitate reliable after-sales support to improve customer satisfaction and ensure high customer retention 
+- Provide customization options for Desktop and Storage solutions, allowing customers to choose specific configurations tailored to their requirements. Personalization like this can attract more buyers looking for custom-made solutions. Some options for personalization include the following:
+  - Component selection
+  - Pre-installed software
+  - Storage configuration
+
